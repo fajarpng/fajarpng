@@ -56,6 +56,4 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/fajarpng/fajarpng/snake-output/snake.svg" alt="Snake animation" />
-
-###
+![snake animation](https://github.com/fajarpng/fajarpng/blob/output/github-contribution-grid-snake2.svg)
